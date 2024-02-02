@@ -5,4 +5,4 @@ This repository is for testing [score-and-rank-contributors](https://github.com/
 It should test
 - correctness of [contribors scores calculation](https://github.com/asterinas/score-and-rank-contributors?tab=readme-ov-file#contribution-scores)
 - exclude pull request merge commit
-- blacklist `action@github.com`
+- blacklist bot `action@github.com`
