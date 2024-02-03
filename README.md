@@ -1,8 +1,7 @@
-# Test for score-and-rank-contributors
+# Alice and Lam
 
-This repository is for testing [score-and-rank-contributors](https://github.com/asterinas/score-and-rank-contributors).
-
-It should test
-- correctness of [contribors scores calculation](https://github.com/asterinas/score-and-rank-contributors?tab=readme-ov-file#contribution-scores)
-- exclude pull request merge commit
-- blacklist `action@github.com`
+This Git repository is collaborative work by two fictive developers named Alice and Lam.
+The repository's content is not meaningful,
+its whole purpose is to provide a deterministic commit history
+so that the [`score-and-rank-contributors`](https://github.com/asterinas/score-and-rank-contributors) tool
+can use it for the testing purpose.
